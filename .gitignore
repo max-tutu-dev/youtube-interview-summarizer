@@ -1,0 +1,32 @@
+# 输出产物
+*.pdf
+*.vtt
+*.txt
+*.srt
+*.md.pdf
+*.html
+
+# 临时文件
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.log
+*.tmp
+*.temp
+
+# 环境配置
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
